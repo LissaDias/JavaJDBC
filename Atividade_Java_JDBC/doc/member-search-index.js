@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"view","c":"ClienteGUI","l":"ClienteGUI()","url":"%3Cinit%3E()"},{"p":"view","c":"LoginGUI","l":"LoginGUI()","url":"%3Cinit%3E()"}]
